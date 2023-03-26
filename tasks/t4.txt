@@ -1,0 +1,2 @@
+nano is too simple to use no need to install nano
+firstly i create nano file (nano t4.txt) then write something and save with (ctrl + x) then press y and press enter and write  nano <file name> then open our file and change something and again save with (ctrl + x) then press y then enter

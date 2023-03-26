@@ -1,0 +1,5 @@
+this is my vim file
+firtly i install vim and open vim 
+then i create the file and write something then i was type :w <name> for save file and :q for quite
+again i open this file via vim t3.txt and change something and again save with :wq for save and quite 
+this is a terminel editor for writing
